@@ -3,14 +3,13 @@
 ## Cloning
 
 ```sh
-git clone https://github.com/jaedle/go-testify-template
+git clone https://github.com/jaedle/go-ginkgo-gomega-template
 ```
 
 ## Preparing for Kata
 
 ```sh
 rm -r .git/
-go mod download
 go test ./...
 ```
 
