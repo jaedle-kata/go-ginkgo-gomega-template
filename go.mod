@@ -3,7 +3,7 @@ module github.com/jaedle-kata/go-ginkgo-gomega-template
 go 1.20
 
 require (
-	github.com/onsi/ginkgo/v2 v2.9.3
+	github.com/onsi/ginkgo/v2 v2.9.4
 	github.com/onsi/gomega v1.27.6
 )
 
